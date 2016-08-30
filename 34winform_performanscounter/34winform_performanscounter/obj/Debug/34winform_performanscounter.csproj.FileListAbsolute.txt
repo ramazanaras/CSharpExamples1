@@ -1,0 +1,8 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\34winform_performanscounter\34winform_performanscounter\bin\Debug\34winform_performanscounter.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\34winform_performanscounter\34winform_performanscounter\bin\Debug\34winform_performanscounter.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\34winform_performanscounter\34winform_performanscounter\bin\Debug\34winform_performanscounter.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\34winform_performanscounter\34winform_performanscounter\obj\Debug\_34winform_performanscounter.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\34winform_performanscounter\34winform_performanscounter\obj\Debug\_34winform_performanscounter.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\34winform_performanscounter\34winform_performanscounter\obj\Debug\34winform_performanscounter.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\34winform_performanscounter\34winform_performanscounter\obj\Debug\34winform_performanscounter.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\34winform_performanscounter\34winform_performanscounter\obj\Debug\34winform_performanscounter.pdb

@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console10_takimOlusturma\console10_takimOlusturma\bin\Debug\console10_takimOlusturma.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console10_takimOlusturma\console10_takimOlusturma\bin\Debug\console10_takimOlusturma.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console10_takimOlusturma\console10_takimOlusturma\bin\Debug\console10_takimOlusturma.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console10_takimOlusturma\console10_takimOlusturma\obj\Debug\console10_takimOlusturma.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console10_takimOlusturma\console10_takimOlusturma\obj\Debug\console10_takimOlusturma.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console10_takimOlusturma\console10_takimOlusturma\obj\Debug\console10_takimOlusturma.pdb

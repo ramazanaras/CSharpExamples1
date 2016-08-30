@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\15winform_listeleyiciler\15winform_listeleyiciler\bin\Debug\15winform_listeleyiciler.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\15winform_listeleyiciler\15winform_listeleyiciler\bin\Debug\15winform_listeleyiciler.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\15winform_listeleyiciler\15winform_listeleyiciler\bin\Debug\15winform_listeleyiciler.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\15winform_listeleyiciler\15winform_listeleyiciler\obj\Debug\15winform_listeleyiciler.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\15winform_listeleyiciler\15winform_listeleyiciler\obj\Debug\_15winform_listeleyiciler.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\15winform_listeleyiciler\15winform_listeleyiciler\obj\Debug\_15winform_listeleyiciler.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\15winform_listeleyiciler\15winform_listeleyiciler\obj\Debug\15winform_listeleyiciler.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\15winform_listeleyiciler\15winform_listeleyiciler\obj\Debug\15winform_listeleyiciler.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\15winform_listeleyiciler\15winform_listeleyiciler\obj\Debug\15winform_listeleyiciler.pdb

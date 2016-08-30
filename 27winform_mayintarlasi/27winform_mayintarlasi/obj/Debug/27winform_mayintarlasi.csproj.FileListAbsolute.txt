@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\27winform_mayintarlasi\27winform_mayintarlasi\bin\Debug\27winform_mayintarlasi.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\27winform_mayintarlasi\27winform_mayintarlasi\bin\Debug\27winform_mayintarlasi.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\27winform_mayintarlasi\27winform_mayintarlasi\bin\Debug\27winform_mayintarlasi.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\27winform_mayintarlasi\27winform_mayintarlasi\obj\Debug\27winform_mayintarlasi.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\27winform_mayintarlasi\27winform_mayintarlasi\obj\Debug\_27winform_mayintarlasi.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\27winform_mayintarlasi\27winform_mayintarlasi\obj\Debug\_27winform_mayintarlasi.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\27winform_mayintarlasi\27winform_mayintarlasi\obj\Debug\27winform_mayintarlasi.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\27winform_mayintarlasi\27winform_mayintarlasi\obj\Debug\27winform_mayintarlasi.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\27winform_mayintarlasi\27winform_mayintarlasi\obj\Debug\27winform_mayintarlasi.pdb

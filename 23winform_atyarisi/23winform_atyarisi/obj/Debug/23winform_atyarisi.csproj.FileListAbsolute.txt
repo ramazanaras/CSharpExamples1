@@ -1,0 +1,8 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\23winform_atyarisi\23winform_atyarisi\bin\Debug\23winform_atyarisi.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\23winform_atyarisi\23winform_atyarisi\bin\Debug\23winform_atyarisi.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\23winform_atyarisi\23winform_atyarisi\bin\Debug\23winform_atyarisi.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\23winform_atyarisi\23winform_atyarisi\obj\Debug\_23winform_atyarisi.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\23winform_atyarisi\23winform_atyarisi\obj\Debug\_23winform_atyarisi.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\23winform_atyarisi\23winform_atyarisi\obj\Debug\23winform_atyarisi.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\23winform_atyarisi\23winform_atyarisi\obj\Debug\23winform_atyarisi.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\23winform_atyarisi\23winform_atyarisi\obj\Debug\23winform_atyarisi.pdb

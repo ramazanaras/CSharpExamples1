@@ -1,0 +1,5 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console7_dowhile\console7_dowhile\bin\Debug\console7_dowhile.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console7_dowhile\console7_dowhile\bin\Debug\console7_dowhile.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console7_dowhile\console7_dowhile\bin\Debug\console7_dowhile.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console7_dowhile\console7_dowhile\obj\Debug\console7_dowhile.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console7_dowhile\console7_dowhile\obj\Debug\console7_dowhile.pdb

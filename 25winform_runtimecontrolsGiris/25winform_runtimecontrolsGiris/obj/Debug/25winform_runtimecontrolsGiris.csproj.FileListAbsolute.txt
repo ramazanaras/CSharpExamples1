@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\25winform_runtimecontrolsGiris\25winform_runtimecontrolsGiris\bin\Debug\25winform_runtimecontrolsGiris.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\25winform_runtimecontrolsGiris\25winform_runtimecontrolsGiris\bin\Debug\25winform_runtimecontrolsGiris.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\25winform_runtimecontrolsGiris\25winform_runtimecontrolsGiris\bin\Debug\25winform_runtimecontrolsGiris.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\25winform_runtimecontrolsGiris\25winform_runtimecontrolsGiris\obj\Debug\25winform_runtimecontrolsGiris.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\25winform_runtimecontrolsGiris\25winform_runtimecontrolsGiris\obj\Debug\_25winform_runtimecontrolsGiris.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\25winform_runtimecontrolsGiris\25winform_runtimecontrolsGiris\obj\Debug\_25winform_runtimecontrolsGiris.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\25winform_runtimecontrolsGiris\25winform_runtimecontrolsGiris\obj\Debug\25winform_runtimecontrolsGiris.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\25winform_runtimecontrolsGiris\25winform_runtimecontrolsGiris\obj\Debug\25winform_runtimecontrolsGiris.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\25winform_runtimecontrolsGiris\25winform_runtimecontrolsGiris\obj\Debug\25winform_runtimecontrolsGiris.pdb

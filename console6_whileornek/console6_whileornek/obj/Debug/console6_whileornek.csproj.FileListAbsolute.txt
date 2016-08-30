@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console6_whileornek\console6_whileornek\bin\Debug\console6_whileornek.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console6_whileornek\console6_whileornek\bin\Debug\console6_whileornek.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console6_whileornek\console6_whileornek\bin\Debug\console6_whileornek.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console6_whileornek\console6_whileornek\obj\Debug\console6_whileornek.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console6_whileornek\console6_whileornek\obj\Debug\console6_whileornek.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console6_whileornek\console6_whileornek\obj\Debug\console6_whileornek.pdb

@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console4_tipdonusumleri\console4_tipdonusumleri\bin\Debug\console4_tipdonusumleri.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console4_tipdonusumleri\console4_tipdonusumleri\bin\Debug\console4_tipdonusumleri.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console4_tipdonusumleri\console4_tipdonusumleri\bin\Debug\console4_tipdonusumleri.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console4_tipdonusumleri\console4_tipdonusumleri\obj\Debug\console4_tipdonusumleri.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console4_tipdonusumleri\console4_tipdonusumleri\obj\Debug\console4_tipdonusumleri.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console4_tipdonusumleri\console4_tipdonusumleri\obj\Debug\console4_tipdonusumleri.pdb

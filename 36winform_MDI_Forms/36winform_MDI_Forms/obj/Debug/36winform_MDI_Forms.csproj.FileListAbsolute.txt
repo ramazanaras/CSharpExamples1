@@ -1,0 +1,8 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\36winform_MDI_Forms\36winform_MDI_Forms\bin\Debug\36winform_MDI_Forms.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\36winform_MDI_Forms\36winform_MDI_Forms\bin\Debug\36winform_MDI_Forms.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\36winform_MDI_Forms\36winform_MDI_Forms\bin\Debug\36winform_MDI_Forms.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\36winform_MDI_Forms\36winform_MDI_Forms\obj\Debug\_36winform_MDI_Forms.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\36winform_MDI_Forms\36winform_MDI_Forms\obj\Debug\_36winform_MDI_Forms.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\36winform_MDI_Forms\36winform_MDI_Forms\obj\Debug\36winform_MDI_Forms.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\36winform_MDI_Forms\36winform_MDI_Forms\obj\Debug\36winform_MDI_Forms.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\36winform_MDI_Forms\36winform_MDI_Forms\obj\Debug\36winform_MDI_Forms.pdb

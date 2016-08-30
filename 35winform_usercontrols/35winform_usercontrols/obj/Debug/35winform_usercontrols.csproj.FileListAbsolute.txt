@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\35winform_usercontrols\35winform_usercontrols\bin\Debug\35winform_usercontrols.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\35winform_usercontrols\35winform_usercontrols\bin\Debug\35winform_usercontrols.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\35winform_usercontrols\35winform_usercontrols\bin\Debug\35winform_usercontrols.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\35winform_usercontrols\35winform_usercontrols\obj\Debug\_35winform_usercontrols.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\35winform_usercontrols\35winform_usercontrols\obj\Debug\35winform_usercontrols.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\35winform_usercontrols\35winform_usercontrols\obj\Debug\35winform_usercontrols.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\35winform_usercontrols\35winform_usercontrols\obj\Debug\35winform_usercontrols.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\35winform_usercontrols\35winform_usercontrols\obj\Debug\_35winform_usercontrols.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\35winform_usercontrols\35winform_usercontrols\obj\Debug\_35winform_usercontrols.inputControl.resources

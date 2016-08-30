@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console11_sesliharfbulma\console11_sesliharfbulma\bin\Debug\console11_sesliharfbulma.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console11_sesliharfbulma\console11_sesliharfbulma\bin\Debug\console11_sesliharfbulma.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console11_sesliharfbulma\console11_sesliharfbulma\bin\Debug\console11_sesliharfbulma.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console11_sesliharfbulma\console11_sesliharfbulma\obj\Debug\console11_sesliharfbulma.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console11_sesliharfbulma\console11_sesliharfbulma\obj\Debug\console11_sesliharfbulma.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console11_sesliharfbulma\console11_sesliharfbulma\obj\Debug\console11_sesliharfbulma.pdb

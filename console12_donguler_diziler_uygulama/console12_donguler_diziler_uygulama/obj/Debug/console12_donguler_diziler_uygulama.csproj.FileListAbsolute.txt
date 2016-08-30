@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console12_donguler_diziler_uygulama\console12_donguler_diziler_uygulama\bin\Debug\console12_donguler_diziler_uygulama.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console12_donguler_diziler_uygulama\console12_donguler_diziler_uygulama\bin\Debug\console12_donguler_diziler_uygulama.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console12_donguler_diziler_uygulama\console12_donguler_diziler_uygulama\bin\Debug\console12_donguler_diziler_uygulama.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console12_donguler_diziler_uygulama\console12_donguler_diziler_uygulama\obj\Debug\console12_donguler_diziler_uygulama.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console12_donguler_diziler_uygulama\console12_donguler_diziler_uygulama\obj\Debug\console12_donguler_diziler_uygulama.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console12_donguler_diziler_uygulama\console12_donguler_diziler_uygulama\obj\Debug\console12_donguler_diziler_uygulama.pdb

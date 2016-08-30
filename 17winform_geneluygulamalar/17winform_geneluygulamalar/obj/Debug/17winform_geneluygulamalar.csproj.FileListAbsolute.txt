@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\17winform_geneluygulamalar\17winform_geneluygulamalar\bin\Debug\17winform_geneluygulamalar.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\17winform_geneluygulamalar\17winform_geneluygulamalar\bin\Debug\17winform_geneluygulamalar.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\17winform_geneluygulamalar\17winform_geneluygulamalar\bin\Debug\17winform_geneluygulamalar.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\17winform_geneluygulamalar\17winform_geneluygulamalar\obj\Debug\17winform_geneluygulamalar.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\17winform_geneluygulamalar\17winform_geneluygulamalar\obj\Debug\_17winform_geneluygulamalar.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\17winform_geneluygulamalar\17winform_geneluygulamalar\obj\Debug\_17winform_geneluygulamalar.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\17winform_geneluygulamalar\17winform_geneluygulamalar\obj\Debug\17winform_geneluygulamalar.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\17winform_geneluygulamalar\17winform_geneluygulamalar\obj\Debug\17winform_geneluygulamalar.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\17winform_geneluygulamalar\17winform_geneluygulamalar\obj\Debug\17winform_geneluygulamalar.pdb

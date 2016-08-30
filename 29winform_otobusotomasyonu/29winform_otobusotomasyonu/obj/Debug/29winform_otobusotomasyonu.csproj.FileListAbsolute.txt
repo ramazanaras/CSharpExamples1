@@ -1,0 +1,10 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\29winform_otobusotomasyonu\29winform_otobusotomasyonu\bin\Debug\29winform_otobusotomasyonu.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\29winform_otobusotomasyonu\29winform_otobusotomasyonu\bin\Debug\29winform_otobusotomasyonu.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\29winform_otobusotomasyonu\29winform_otobusotomasyonu\bin\Debug\29winform_otobusotomasyonu.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\29winform_otobusotomasyonu\29winform_otobusotomasyonu\obj\Debug\29winform_otobusotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\29winform_otobusotomasyonu\29winform_otobusotomasyonu\obj\Debug\_29winform_otobusotomasyonu.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\29winform_otobusotomasyonu\29winform_otobusotomasyonu\obj\Debug\_29winform_otobusotomasyonu.KayitFormu.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\29winform_otobusotomasyonu\29winform_otobusotomasyonu\obj\Debug\_29winform_otobusotomasyonu.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\29winform_otobusotomasyonu\29winform_otobusotomasyonu\obj\Debug\29winform_otobusotomasyonu.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\29winform_otobusotomasyonu\29winform_otobusotomasyonu\obj\Debug\29winform_otobusotomasyonu.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\29winform_otobusotomasyonu\29winform_otobusotomasyonu\obj\Debug\29winform_otobusotomasyonu.pdb

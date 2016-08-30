@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\17winform_listearama\17winform_listearama\bin\Debug\17winform_listearama.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\17winform_listearama\17winform_listearama\bin\Debug\17winform_listearama.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\17winform_listearama\17winform_listearama\bin\Debug\17winform_listearama.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\17winform_listearama\17winform_listearama\obj\Debug\_17winform_listearama.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\17winform_listearama\17winform_listearama\obj\Debug\_17winform_listearama.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\17winform_listearama\17winform_listearama\obj\Debug\17winform_listearama.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\17winform_listearama\17winform_listearama\obj\Debug\17winform_listearama.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\17winform_listearama\17winform_listearama\obj\Debug\17winform_listearama.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\17winform_listearama\17winform_listearama\obj\Debug\17winform_listearama.csprojResolveAssemblyReference.cache

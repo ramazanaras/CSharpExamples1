@@ -1,0 +1,8 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\22winform_kronometre\22winform_kronometre\bin\Debug\22winform_kronometre.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\22winform_kronometre\22winform_kronometre\bin\Debug\22winform_kronometre.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\22winform_kronometre\22winform_kronometre\bin\Debug\22winform_kronometre.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\22winform_kronometre\22winform_kronometre\obj\Debug\_22winform_kronometre.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\22winform_kronometre\22winform_kronometre\obj\Debug\_22winform_kronometre.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\22winform_kronometre\22winform_kronometre\obj\Debug\22winform_kronometre.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\22winform_kronometre\22winform_kronometre\obj\Debug\22winform_kronometre.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\22winform_kronometre\22winform_kronometre\obj\Debug\22winform_kronometre.pdb

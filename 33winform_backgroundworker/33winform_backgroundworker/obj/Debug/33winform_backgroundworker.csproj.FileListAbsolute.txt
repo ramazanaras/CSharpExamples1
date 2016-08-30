@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\33winform_backgroundworker\33winform_backgroundworker\bin\Debug\33winform_backgroundworker.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\33winform_backgroundworker\33winform_backgroundworker\bin\Debug\33winform_backgroundworker.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\33winform_backgroundworker\33winform_backgroundworker\bin\Debug\33winform_backgroundworker.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\33winform_backgroundworker\33winform_backgroundworker\obj\Debug\33winform_backgroundworker.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\33winform_backgroundworker\33winform_backgroundworker\obj\Debug\_33winform_backgroundworker.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\33winform_backgroundworker\33winform_backgroundworker\obj\Debug\_33winform_backgroundworker.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\33winform_backgroundworker\33winform_backgroundworker\obj\Debug\33winform_backgroundworker.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\33winform_backgroundworker\33winform_backgroundworker\obj\Debug\33winform_backgroundworker.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\33winform_backgroundworker\33winform_backgroundworker\obj\Debug\33winform_backgroundworker.pdb

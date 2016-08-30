@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console5_kararyapilari\console5_kararyapilari\bin\Debug\console5_kararyapilari.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console5_kararyapilari\console5_kararyapilari\bin\Debug\console5_kararyapilari.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console5_kararyapilari\console5_kararyapilari\bin\Debug\console5_kararyapilari.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console5_kararyapilari\console5_kararyapilari\obj\Debug\console5_kararyapilari.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console5_kararyapilari\console5_kararyapilari\obj\Debug\console5_kararyapilari.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console5_kararyapilari\console5_kararyapilari\obj\Debug\console5_kararyapilari.pdb

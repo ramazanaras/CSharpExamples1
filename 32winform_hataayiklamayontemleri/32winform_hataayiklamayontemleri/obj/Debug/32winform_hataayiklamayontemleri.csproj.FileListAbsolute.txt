@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\32winform_hataayiklamayontemleri\32winform_hataayiklamayontemleri\bin\Debug\32winform_hataayiklamayontemleri.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\32winform_hataayiklamayontemleri\32winform_hataayiklamayontemleri\bin\Debug\32winform_hataayiklamayontemleri.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\32winform_hataayiklamayontemleri\32winform_hataayiklamayontemleri\bin\Debug\32winform_hataayiklamayontemleri.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\32winform_hataayiklamayontemleri\32winform_hataayiklamayontemleri\obj\Debug\32winform_hataayiklamayontemleri.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\32winform_hataayiklamayontemleri\32winform_hataayiklamayontemleri\obj\Debug\_32winform_hataayiklamayontemleri.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\32winform_hataayiklamayontemleri\32winform_hataayiklamayontemleri\obj\Debug\_32winform_hataayiklamayontemleri.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\32winform_hataayiklamayontemleri\32winform_hataayiklamayontemleri\obj\Debug\32winform_hataayiklamayontemleri.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\32winform_hataayiklamayontemleri\32winform_hataayiklamayontemleri\obj\Debug\32winform_hataayiklamayontemleri.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\32winform_hataayiklamayontemleri\32winform_hataayiklamayontemleri\obj\Debug\32winform_hataayiklamayontemleri.pdb

@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\24winform_metodlar\24winform_metodlar\bin\Debug\24winform_metodlar.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\24winform_metodlar\24winform_metodlar\bin\Debug\24winform_metodlar.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\24winform_metodlar\24winform_metodlar\bin\Debug\24winform_metodlar.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\24winform_metodlar\24winform_metodlar\obj\Debug\24winform_metodlar.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\24winform_metodlar\24winform_metodlar\obj\Debug\_24winform_metodlar.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\24winform_metodlar\24winform_metodlar\obj\Debug\_24winform_metodlar.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\24winform_metodlar\24winform_metodlar\obj\Debug\24winform_metodlar.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\24winform_metodlar\24winform_metodlar\obj\Debug\24winform_metodlar.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\24winform_metodlar\24winform_metodlar\obj\Debug\24winform_metodlar.pdb

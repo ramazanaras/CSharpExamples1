@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console7_sayitahminoyunu\console7_sayitahminoyunu\bin\Debug\console7_sayitahminoyunu.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console7_sayitahminoyunu\console7_sayitahminoyunu\bin\Debug\console7_sayitahminoyunu.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console7_sayitahminoyunu\console7_sayitahminoyunu\bin\Debug\console7_sayitahminoyunu.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console7_sayitahminoyunu\console7_sayitahminoyunu\obj\Debug\console7_sayitahminoyunu.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console7_sayitahminoyunu\console7_sayitahminoyunu\obj\Debug\console7_sayitahminoyunu.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console7_sayitahminoyunu\console7_sayitahminoyunu\obj\Debug\console7_sayitahminoyunu.pdb

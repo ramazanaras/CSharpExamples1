@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console8_fordongusu\console8_fordongusu\bin\Debug\console8_fordongusu.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console8_fordongusu\console8_fordongusu\bin\Debug\console8_fordongusu.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console8_fordongusu\console8_fordongusu\bin\Debug\console8_fordongusu.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console8_fordongusu\console8_fordongusu\obj\Debug\console8_fordongusu.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console8_fordongusu\console8_fordongusu\obj\Debug\console8_fordongusu.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console8_fordongusu\console8_fordongusu\obj\Debug\console8_fordongusu.pdb

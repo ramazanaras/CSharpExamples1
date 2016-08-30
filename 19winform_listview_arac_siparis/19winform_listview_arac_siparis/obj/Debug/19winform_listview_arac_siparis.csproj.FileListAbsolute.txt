@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\19winform_listview_arac_siparis\19winform_listview_arac_siparis\bin\Debug\19winform_listview_arac_siparis.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\19winform_listview_arac_siparis\19winform_listview_arac_siparis\bin\Debug\19winform_listview_arac_siparis.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\19winform_listview_arac_siparis\19winform_listview_arac_siparis\bin\Debug\19winform_listview_arac_siparis.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\19winform_listview_arac_siparis\19winform_listview_arac_siparis\obj\Debug\19winform_listview_arac_siparis.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\19winform_listview_arac_siparis\19winform_listview_arac_siparis\obj\Debug\_19winform_listview_arac_siparis.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\19winform_listview_arac_siparis\19winform_listview_arac_siparis\obj\Debug\_19winform_listview_arac_siparis.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\19winform_listview_arac_siparis\19winform_listview_arac_siparis\obj\Debug\19winform_listview_arac_siparis.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\19winform_listview_arac_siparis\19winform_listview_arac_siparis\obj\Debug\19winform_listview_arac_siparis.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\19winform_listview_arac_siparis\19winform_listview_arac_siparis\obj\Debug\19winform_listview_arac_siparis.pdb

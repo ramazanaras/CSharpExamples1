@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console10_foreach\console10_foreach\bin\Debug\console10_foreach.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console10_foreach\console10_foreach\bin\Debug\console10_foreach.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console10_foreach\console10_foreach\bin\Debug\console10_foreach.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console10_foreach\console10_foreach\obj\Debug\console10_foreach.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console10_foreach\console10_foreach\obj\Debug\console10_foreach.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console10_foreach\console10_foreach\obj\Debug\console10_foreach.pdb

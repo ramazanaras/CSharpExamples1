@@ -1,0 +1,5 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console12_AdanZyeEkranaYazma\console12_AdanZyeEkranaYazma\bin\Debug\console12_AdanZyeEkranaYazma.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console12_AdanZyeEkranaYazma\console12_AdanZyeEkranaYazma\bin\Debug\console12_AdanZyeEkranaYazma.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console12_AdanZyeEkranaYazma\console12_AdanZyeEkranaYazma\bin\Debug\console12_AdanZyeEkranaYazma.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console12_AdanZyeEkranaYazma\console12_AdanZyeEkranaYazma\obj\Debug\console12_AdanZyeEkranaYazma.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console12_AdanZyeEkranaYazma\console12_AdanZyeEkranaYazma\obj\Debug\console12_AdanZyeEkranaYazma.pdb

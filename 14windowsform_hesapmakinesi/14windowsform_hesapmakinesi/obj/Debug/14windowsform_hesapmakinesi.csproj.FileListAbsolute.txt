@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\14windowsform_hesapmakinesi\14windowsform_hesapmakinesi\bin\Debug\14windowsform_hesapmakinesi.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\14windowsform_hesapmakinesi\14windowsform_hesapmakinesi\bin\Debug\14windowsform_hesapmakinesi.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\14windowsform_hesapmakinesi\14windowsform_hesapmakinesi\bin\Debug\14windowsform_hesapmakinesi.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\14windowsform_hesapmakinesi\14windowsform_hesapmakinesi\obj\Debug\14windowsform_hesapmakinesi.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\14windowsform_hesapmakinesi\14windowsform_hesapmakinesi\obj\Debug\_14windowsform_hesapmakinesi.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\14windowsform_hesapmakinesi\14windowsform_hesapmakinesi\obj\Debug\_14windowsform_hesapmakinesi.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\14windowsform_hesapmakinesi\14windowsform_hesapmakinesi\obj\Debug\14windowsform_hesapmakinesi.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\14windowsform_hesapmakinesi\14windowsform_hesapmakinesi\obj\Debug\14windowsform_hesapmakinesi.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\14windowsform_hesapmakinesi\14windowsform_hesapmakinesi\obj\Debug\14windowsform_hesapmakinesi.pdb

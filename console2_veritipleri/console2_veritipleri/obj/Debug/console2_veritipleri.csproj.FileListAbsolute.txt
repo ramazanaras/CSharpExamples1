@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console2_veritipleri\console2_veritipleri\bin\Debug\console2_veritipleri.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console2_veritipleri\console2_veritipleri\bin\Debug\console2_veritipleri.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console2_veritipleri\console2_veritipleri\bin\Debug\console2_veritipleri.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console2_veritipleri\console2_veritipleri\obj\Debug\console2_veritipleri.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console2_veritipleri\console2_veritipleri\obj\Debug\console2_veritipleri.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console2_veritipleri\console2_veritipleri\obj\Debug\console2_veritipleri.pdb

@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console9_diziisimornegi\console9_diziisimornegi\bin\Debug\console9_diziisimornegi.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console9_diziisimornegi\console9_diziisimornegi\bin\Debug\console9_diziisimornegi.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console9_diziisimornegi\console9_diziisimornegi\bin\Debug\console9_diziisimornegi.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console9_diziisimornegi\console9_diziisimornegi\obj\Debug\console9_diziisimornegi.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console9_diziisimornegi\console9_diziisimornegi\obj\Debug\console9_diziisimornegi.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console9_diziisimornegi\console9_diziisimornegi\obj\Debug\console9_diziisimornegi.pdb

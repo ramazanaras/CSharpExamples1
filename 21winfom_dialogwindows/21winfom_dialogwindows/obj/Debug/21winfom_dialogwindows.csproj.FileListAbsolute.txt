@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\21winfom_dialogwindows\21winfom_dialogwindows\bin\Debug\21winfom_dialogwindows.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\21winfom_dialogwindows\21winfom_dialogwindows\bin\Debug\21winfom_dialogwindows.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\21winfom_dialogwindows\21winfom_dialogwindows\bin\Debug\21winfom_dialogwindows.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\21winfom_dialogwindows\21winfom_dialogwindows\obj\Debug\21winfom_dialogwindows.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\21winfom_dialogwindows\21winfom_dialogwindows\obj\Debug\_21winfom_dialogwindows.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\21winfom_dialogwindows\21winfom_dialogwindows\obj\Debug\_21winfom_dialogwindows.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\21winfom_dialogwindows\21winfom_dialogwindows\obj\Debug\21winfom_dialogwindows.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\21winfom_dialogwindows\21winfom_dialogwindows\obj\Debug\21winfom_dialogwindows.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\21winfom_dialogwindows\21winfom_dialogwindows\obj\Debug\21winfom_dialogwindows.pdb

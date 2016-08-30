@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console6_donguler\console6_donguler\bin\Debug\console6_donguler.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console6_donguler\console6_donguler\bin\Debug\console6_donguler.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console6_donguler\console6_donguler\bin\Debug\console6_donguler.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console6_donguler\console6_donguler\obj\Debug\console6_donguler.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console6_donguler\console6_donguler\obj\Debug\console6_donguler.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console6_donguler\console6_donguler\obj\Debug\console6_donguler.pdb

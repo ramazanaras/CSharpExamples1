@@ -1,0 +1,90 @@
+view object browser classlarý gösterir.
+ctrl+. kütüphaneyi ekler.
+ctrl+boþluk intellisense açar.
+
+
+projeyi derleme f6 yada build den build solutiona týklayabiliriz.
+
+ingiliz anahtarý: özellik(property)
+pembe kutucuk :method 
+sarý þimþek :event (olay)
+iki sarý kutu :seçenek listesidir.içinde seçenekler var.(enum tipleri seçenek listesidir.)
+
+
+breakpoint f11 tuþu ileri gitme 
+
+ctrl+k+d düzgün format
+
+alt tuþuna basarak kare seçim yaparýz.
+
+f4 propertiesi açar.
+
+ctrl+shift+a winform ekleme yada class eklemek için bir þey açar.
+
+solution sað týkla set startup project ten hangi projenin açýlacaðýný söyle.
+
+f5 çalýþtýrma
+
+edit--> advanced-> word wrap (satýr sonunda aþaðý atmak için)
+
+
+listview view details yap ve gridline true yap.        Fullrowselect tüm satýrý seç demek.
+
+flowlayout panel içerisine atýlan kontrollerin sýralý biçimde olmasýný saðlar.
+
+
+datetime picker özellikleri: custom format:yyyy dört haneli yýl Format:Custom
+https://www.iconfinder.com/icons/728898/add_create_file_folder_new_page_plus_icon#size=32 iconlar 32x32 tipinde al.
+
+class kütüphanesi oluþturmak için add new project--->class library (bunun içinde sadece classlar bulunur.) ekledikten sonra build yap
+class kütüphanesini kullanabilmek için ana proejde refererences kýsmýndan bu kütüphaneyi eklememiz lazým ve projedede üst tarafta using þeklinde tanýmlamalýyýz. 
+properti oluþturmak için prop yazýp tab tab yaparýz
+override toString metodu oluþturmak için override boþluk metodu seçeriz.
+
+acceptbutton: entera basýnca buton çalýþýr(formun özelliðidir.)
+
+combobox  özelliklerden dropdownstyle'den dropdownlist yapýnca içine biþey yazamayýz
+
+Not:code snippet ile kodu tamamlar(for,foreach,switch,)tab tab ile kendi tamamlar
+
+listbox özelliklerinden selection mode -->multi simple dersek birçok eleman silebiliriz.
+
+textboxlarý yada butonlarý(kontrolleri) ctrl basýlý tutup mouse ile aþaðý çekersek bir kopyasýný almýþ oluruz.
+
+
+--------------
+Önceden yaptýðýmýz þeyleri deðiþtirdik program çalýþýyordu ama þimdi çalýþmýyorsa buildden clean solution yap daha sonra build solution yap düzelir.
+
+//Not:Context menu strip herhangi bir kontrole sað týkladýðýmýzda çalýþan þeydir
+kontrolün Context menu strip özelliðinden contexmenustrip1 i seç
+
+Not:
+bir þey özellikse == yaparýz 
+metod ise () yaparýz.
+
+f12 ile metodun nasýl yada ne tipte deðer döndürdüðünü gösteriyor.(yani metoda gidiyor.metodun nasýl birþey olduðunu görebiliriz.)
+
+NOT:  cmb.DropDownStyle = ComboBoxStyle.DropDownList;//Not:atama yapmak için þu yolu izleyebiliriz.cmb.DropDownStyle bizee ComboBoxStyle tipinde deðer istiyor eþitlikten sonra ComboBoxStyle ile baþlayýp . koyarak özelliði(DropDownList) atayabiliriz.
+
+
+groupbox kontolüde flowlayout gibi bir kontroldür ama flowlayout gibi hizalama yapmaz.
+
+
+///KISA ÝSÝMLENDÝRMELER
+BUTON--> btnEkle
+textbox--> txtEkle
+combobox--> cmbEkle
+label --> lblEkle
+maskedTextbox -->mskdEkle
+listbox -->listKisiler
+listview--> lvi
+radiobuton-->rdbBay
+numericupdown-->nudSayilar
+progressbar -->prgBarIslemci
+
+
+formun form border style özelliðinden fixed toolwindow yaparsak form büyüyüp küçültülemez.
+
+listviewde gridline true yapcaz ve view kýsmýný details yapmamýz lazým
+
+formun startposition ýný centerscreen yapýnca form ekranýn tam ortasýnda açýlýr.

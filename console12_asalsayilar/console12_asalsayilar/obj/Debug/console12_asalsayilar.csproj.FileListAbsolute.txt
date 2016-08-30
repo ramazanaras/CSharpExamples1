@@ -1,0 +1,5 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console12_asalsayilar\console12_asalsayilar\bin\Debug\console12_asalsayilar.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console12_asalsayilar\console12_asalsayilar\bin\Debug\console12_asalsayilar.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console12_asalsayilar\console12_asalsayilar\bin\Debug\console12_asalsayilar.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console12_asalsayilar\console12_asalsayilar\obj\Debug\console12_asalsayilar.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console12_asalsayilar\console12_asalsayilar\obj\Debug\console12_asalsayilar.pdb

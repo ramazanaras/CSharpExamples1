@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\13windows_form\13windows_form\bin\Debug\13windows_form.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\13windows_form\13windows_form\bin\Debug\13windows_form.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\13windows_form\13windows_form\bin\Debug\13windows_form.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\13windows_form\13windows_form\obj\Debug\13windows_form.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\13windows_form\13windows_form\obj\Debug\_13windows_form.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\13windows_form\13windows_form\obj\Debug\_13windows_form.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\13windows_form\13windows_form\obj\Debug\13windows_form.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\13windows_form\13windows_form\obj\Debug\13windows_form.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\13windows_form\13windows_form\obj\Debug\13windows_form.pdb

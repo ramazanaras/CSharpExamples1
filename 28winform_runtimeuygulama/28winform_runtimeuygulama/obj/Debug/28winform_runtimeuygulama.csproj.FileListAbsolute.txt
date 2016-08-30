@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\28winform_runtimeuygulama\28winform_runtimeuygulama\bin\Debug\28winform_runtimeuygulama.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\28winform_runtimeuygulama\28winform_runtimeuygulama\bin\Debug\28winform_runtimeuygulama.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\28winform_runtimeuygulama\28winform_runtimeuygulama\bin\Debug\28winform_runtimeuygulama.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\28winform_runtimeuygulama\28winform_runtimeuygulama\obj\Debug\28winform_runtimeuygulama.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\28winform_runtimeuygulama\28winform_runtimeuygulama\obj\Debug\_28winform_runtimeuygulama.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\28winform_runtimeuygulama\28winform_runtimeuygulama\obj\Debug\_28winform_runtimeuygulama.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\28winform_runtimeuygulama\28winform_runtimeuygulama\obj\Debug\28winform_runtimeuygulama.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\28winform_runtimeuygulama\28winform_runtimeuygulama\obj\Debug\28winform_runtimeuygulama.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\28winform_runtimeuygulama\28winform_runtimeuygulama\obj\Debug\28winform_runtimeuygulama.pdb

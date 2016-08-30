@@ -1,0 +1,5 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console5_switchCase\console5_switchCase\bin\Debug\console5_switchCase.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console5_switchCase\console5_switchCase\bin\Debug\console5_switchCase.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console5_switchCase\console5_switchCase\bin\Debug\console5_switchCase.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console5_switchCase\console5_switchCase\obj\Debug\console5_switchCase.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console5_switchCase\console5_switchCase\obj\Debug\console5_switchCase.pdb

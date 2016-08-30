@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\18winform_listview\18winform_listview\bin\Debug\18winform_listview.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\18winform_listview\18winform_listview\bin\Debug\18winform_listview.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\18winform_listview\18winform_listview\bin\Debug\18winform_listview.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\18winform_listview\18winform_listview\obj\Debug\18winform_listview.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\18winform_listview\18winform_listview\obj\Debug\_18winform_listview.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\18winform_listview\18winform_listview\obj\Debug\_18winform_listview.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\18winform_listview\18winform_listview\obj\Debug\18winform_listview.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\18winform_listview\18winform_listview\obj\Debug\18winform_listview.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\18winform_listview\18winform_listview\obj\Debug\18winform_listview.pdb

@@ -1,0 +1,8 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\14winfoormgelismishesapmakinesi\14winfoormgelismishesapmakinesi\bin\Debug\14winfoormgelismishesapmakinesi.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\14winfoormgelismishesapmakinesi\14winfoormgelismishesapmakinesi\bin\Debug\14winfoormgelismishesapmakinesi.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\14winfoormgelismishesapmakinesi\14winfoormgelismishesapmakinesi\bin\Debug\14winfoormgelismishesapmakinesi.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\14winfoormgelismishesapmakinesi\14winfoormgelismishesapmakinesi\obj\Debug\_14winfoormgelismishesapmakinesi.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\14winfoormgelismishesapmakinesi\14winfoormgelismishesapmakinesi\obj\Debug\_14winfoormgelismishesapmakinesi.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\14winfoormgelismishesapmakinesi\14winfoormgelismishesapmakinesi\obj\Debug\14winfoormgelismishesapmakinesi.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\14winfoormgelismishesapmakinesi\14winfoormgelismishesapmakinesi\obj\Debug\14winfoormgelismishesapmakinesi.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\14winfoormgelismishesapmakinesi\14winfoormgelismishesapmakinesi\obj\Debug\14winfoormgelismishesapmakinesi.pdb

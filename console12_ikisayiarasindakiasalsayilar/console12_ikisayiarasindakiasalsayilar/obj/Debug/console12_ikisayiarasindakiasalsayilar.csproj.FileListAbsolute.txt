@@ -1,0 +1,5 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console12_ikisayiarasindakiasalsayilar\console12_ikisayiarasindakiasalsayilar\bin\Debug\console12_ikisayiarasindakiasalsayilar.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console12_ikisayiarasindakiasalsayilar\console12_ikisayiarasindakiasalsayilar\bin\Debug\console12_ikisayiarasindakiasalsayilar.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console12_ikisayiarasindakiasalsayilar\console12_ikisayiarasindakiasalsayilar\bin\Debug\console12_ikisayiarasindakiasalsayilar.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console12_ikisayiarasindakiasalsayilar\console12_ikisayiarasindakiasalsayilar\obj\Debug\console12_ikisayiarasindakiasalsayilar.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\console12_ikisayiarasindakiasalsayilar\console12_ikisayiarasindakiasalsayilar\obj\Debug\console12_ikisayiarasindakiasalsayilar.pdb

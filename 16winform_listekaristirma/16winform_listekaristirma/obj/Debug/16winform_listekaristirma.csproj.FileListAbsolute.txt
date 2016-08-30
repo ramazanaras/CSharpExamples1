@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\16winform_listekaristirma\16winform_listekaristirma\bin\Debug\16winform_listekaristirma.exe.config
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\16winform_listekaristirma\16winform_listekaristirma\bin\Debug\16winform_listekaristirma.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\16winform_listekaristirma\16winform_listekaristirma\bin\Debug\16winform_listekaristirma.pdb
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\16winform_listekaristirma\16winform_listekaristirma\obj\Debug\16winform_listekaristirma.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\16winform_listekaristirma\16winform_listekaristirma\obj\Debug\_16winform_listekaristirma.Form1.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\16winform_listekaristirma\16winform_listekaristirma\obj\Debug\_16winform_listekaristirma.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\16winform_listekaristirma\16winform_listekaristirma\obj\Debug\16winform_listekaristirma.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\16winform_listekaristirma\16winform_listekaristirma\obj\Debug\16winform_listekaristirma.exe
+C:\Users\RAMAZAN\Desktop\c# projeleri\1.1\16winform_listekaristirma\16winform_listekaristirma\obj\Debug\16winform_listekaristirma.pdb
